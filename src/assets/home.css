@@ -1,0 +1,23 @@
+/* Dark backgrounds */
+.bg-black,
+.bg-black .card-body,
+.bg-black .card-title,
+.bg-black .card-text,
+.bg-black li,
+.bg-black label {
+  color: #fff !important;
+  background-color: #141414 !important;
+}
+
+.bg-black .form-control {
+  background-color: #222;
+  border: 1px solid #555;
+  color: #fff;
+}
+.bg-black .form-control::placeholder {
+  color: #bbb;
+}
+
+body {
+  background-color: rgb(0, 0, 0);
+}

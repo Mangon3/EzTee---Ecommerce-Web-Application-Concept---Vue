@@ -1,0 +1,20 @@
+:root {
+  scroll-behavior: smooth;
+}
+
+.placeholder-glow {
+  min-height: 260px;
+}
+
+.object-fit-cover {
+  object-fit: cover;
+}
+
+html,
+body {
+  overflow-x: hidden;
+}
+
+main {
+  min-height: 70vh;
+}
