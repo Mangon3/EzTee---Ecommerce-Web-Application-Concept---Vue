@@ -1,29 +1,20 @@
-# EzTee
+# About EzTee
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a simple web application I developed for a clothing ecommerce platform I made named "EzTee".
 
-## Recommended IDE Setup
+## Website Components
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Navigation bar
+- Footer
+- Home page
+- Product page
+- "About Us" page
+- Multi-step delivery form
+- Feedback form
 
-## Customize configuration
+## Image Attributions
 
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+home1.jpg: https://nnine.shop/en-au/blogs/special-feature/mens-kireime-street-items-coordinate-10 
+home2.jpg: https://www.brunomarc.com/blogs/news/best-mens-street-style-looks 
+home3.jpg: https://www.uberguinchofamiliaporto.com.br/?v=40862705111900&mod=ea6a24f1&uri=brands.php?id=1366817-1135&name=summer+jackets+jackets+john+lewis 
+Product images (product1.avif - product4.avif): UNIQLO - https://www.uniqlo.com/au/en/men/tops/t-shirts
